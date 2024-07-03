@@ -1,0 +1,20 @@
+[
+   {
+      "name": "Anti",
+      "description": "Look at the opposite direction",
+      "trials": 10,
+      "color": "red"
+    },
+     {
+      "name": "Pro",
+      "description": "Look to the target",
+      "trials": 6,
+      "color": "blue"
+    },
+    {
+      "name": "Pursuite",
+      "description": "Follow the target",
+      "trials": 4,
+      "color": "green"
+    }
+  ]

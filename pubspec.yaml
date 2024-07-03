@@ -1,0 +1,16 @@
+name: interview_dart
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+
+dependencies:
+  http: ^0.13.3
+  html: any
+
+dev_dependencies:
+  test: any
+  mockito: any
